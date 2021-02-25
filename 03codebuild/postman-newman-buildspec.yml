@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    key: "test-bo-syd"
+    key: "S3_BUCKET"
 
 phases:
   install:
